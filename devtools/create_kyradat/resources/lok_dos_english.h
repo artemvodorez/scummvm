@@ -1,334 +1,334 @@
 static const char *const k1IntroStringsDOSEnglish[51] = {
-	"This is a text test - 1",
-	"This is a text test - 2",
-	"Greetings, Kallak...",
-	"...Powerful leader of the Royal Mystics!",
-	"Did I frighten you?",
-	"Malcolm!",
-	"I heard yesterday of your escape.",
-	"And have expected you before now.",
-	"Why would I rush?",
-	"I rule this land!",
-	"Your puny curse restrains me naught.",
-	"So, slay me now!",
-	"I have little magic left.",
-	"I mean to harm you, have no doubt...",
-	"...Now you are stone...",
-	"...Yet I leave your eyes.",
-	"I shed no tears for Kyrandia...",
-	"...But cannot deny you yours.",
-	"Malcolm the Jester has broken free!",
-	"He now controls the Kyragem...",
-	"...source of all magic in Kyrandia!",
+	"Це тестовий текст - 1",
+	"Це тестовий текст - 2",
+	"Вітаннячка, Каллаку...",
+	"...Могутній лідере Королівських Містиків!",
+	"Я тебе не налякав?",
+	"Малкольм!",
+	"Я ще вчора дізнався про твою втечу.",
+	"І очікував тебе раніше.",
+	"Та нащо ж мені поспішати?",
+	"У цій країні володарюю я!",
+	"Твоє жалюгідне прокляття мене взагалі не стримує.",
+	"Ну то вбий мене тепер!",
+	"У мене майже не лишилося магії.",
+	"Я хочу зробити тобі боляче, навіть не сумнівайся...",
+	"...Тепер ти камінь...",
+	"...Але я залишу тобі очі.",
+	"Я за Кірандією не плакатиму...",
+	"...але тобі заборонити не можу.",
+	"Блазень Малкольм вирвався на волю!",
+	"Тепер він контролює Кіраліт...",
+	"...джерело всієї магії в Кірандії!",
 	"",
-	"How dare you trip ME!",
-	"But no, something special for you...",
-	"A humorous hex!",
-	"But I shall give fair warning.",
-	"Don't jump on THAT tree!",
-	"Don't climb up THAT tree little squirrel!",
-	"Boo!",
-	"Tis funnier that way...",
-	"...Is it not?",
-	"Ha ha ha...",
-	"Aren't fingers wonderful?",
-	"It's great to be alive!",
-	"Brandon!",
-	"Grandfather! We did it!",
-	"No! YOU did it!",
-	"Long live King Brandon!",
-	"Long live the Royal Mystics!",
-	"Now, let's go put Kyrandia back together!",
-	"Good idea!",
-	"As my first Royal Proclamation...",
-	"I name sandals as the official footwear of Kyrandia!",
-	"Well done, Brandon!",
-	"The Land no longer weeps...",
-	"And your friends have been restored!",
-	"Dear Brynn...",
-	"Malcolm has broken free!",
-	"Soon he will come for me.",
-	"Please help Brandon...",
+	"Як ти смієш перечіпляти МЕНЕ!",
+	"Та нічого, в мене є для тебе дещо особливе...",
+	"Жартівливе закляття!",
+	"Але я чесно попереджаю.",
+	"Не стрибай на ЦЕ дерево!",
+	"Не лізь на ЦЕ дерево, маленька білочко!",
+	"Гав!",
+	"Так смішніше ж...",
+	"...Хіба ні?",
+	"Ха ха ха...",
+	"Як же неймовірно мати пальці!",
+	"Як же чудово бути живим!",
+	"Брендоне!",
+	"Діду! Ми це зробили!",
+	"Ні! Ти це зробив!",
+	"Хай живе король Брендон!",
+	"Хай живуть Королівські Містики!",
+	"А тепер пішли відновлювати Кірандію разом!",
+	"Чудова думка!",
+	"Своїм першим Королівським Указом...",
+	"Я оголошую сандалі офіційним взуттям Кірандії!",
+	"Гарна робота, Брендоне!",
+	"Земля більше не плаче...",
+	"І твої друзі відновлені!",
+	"Люба Брінн...",
+	"Малкольм звільнився!",
+	"Невдовзі він прийде по мене.",
+	"Будь ласка, допоможи Брендону...",
 	""
 };
 
 static const StringListProvider k1IntroStringsDOSEnglishProvider = { ARRAYSIZE(k1IntroStringsDOSEnglish), k1IntroStringsDOSEnglish };
 
 static const char *const k1ItemNamesDOSEnglish[107] = {
-	"Garnet",
-	"Amethyst",
-	"Aquamarine",
-	"Diamond",
-	"Emerald",
-	"Pearl",
-	"Ruby",
-	"Peridot",
-	"Sapphire",
-	"Opal",
-	"Topaz",
-	"Onyx",
-	"Sunstone",
-	"Moonstone",
-	"Rainbowstone",
-	"Lodestone",
-	"Rose",
-	"Tulip",
-	"Orchid",
-	"Silver Rose",
-	"Silver Statuette",
-	"Silver Coin",
-	"Gold Coin",
-	"Gold Ring",
-	"Royal Chalice",
-	"Pinecone",
-	"Acorn",
-	"Walnut",
-	"Everglowing Fireberries",
-	"Fireberries",
-	"Fireberries",
-	"Fireberries",
-	"Fireberries",
-	"Fireberries",
-	"Fish",
-	"Fish Bone",
-	"Mutton Leg",
-	"Bone",
-	"Apple",
-	"Apple Core",
-	"Blueberries",
-	"Mushroom",
-	"Note",
-	"Marble",
-	"Saw",
-	"Ankh",
-	"Feather",
-	"Egg",
-	"Leaf",
-	"Shamrock",
-	"Fallen Star",
-	"Crystal Ball",
-	"Teardrop",
-	"Mirror",
-	"Ice Shard",
-	"Flute",
-	"Hourglass",
-	"Iron Key",
-	"Jade Key",
-	"Obsidion Key",
-	"Red Potion",
-	"Red Potion",
-	"Blue Potion",
-	"Blue Potion",
-	"Yellow Potion",
-	"Yellow Potion",
-	"Green Potion",
-	"Orange Potion",
-	"Purple Potion",
-	"Potion of Rainbows",
-	"Fresh Water",
-	"Fresh Water",
-	"Salt Water",
-	"Salt Water",
-	"Mineral Water",
-	"Mineral Water",
-	"Magical Water",
-	"Magical Water",
-	"Empty Flask",
-	"Empty Flask",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Scroll",
-	"Parchment scrap",
-	"Parchment scrap",
-	"Parchment scrap",
-	"Parchment scrap",
-	"Parchment scrap",
-	"Red Magestone",
-	"Orange Magestone",
-	"Yellow Magestone",
-	"Green Magestone",
-	"Blue-Green Magestone",
-	"Blue Magestone",
-	"Purple Magestone",
-	"Heavy rock",
-	"Royal Crown",
-	"Royal Sceptre",
-	"Gold key",
-	"Unknown item"
+	"Гранат",
+	"Аметист",
+	"Аквамарин",
+	"Діамант",
+	"Смарагд",
+	"Перлину",
+	"Рубін",
+	"Перидот",
+	"Сапфір",
+	"Опал",
+	"Топаз",
+	"Онікс",
+	"Сонячний камінь",
+	"Місячний камінь",
+	"Веселковий камінь",
+	"Магнітит",
+	"Троянду",
+	"Тюльпан",
+	"Орхідею",
+	"Срібну троянду",
+	"Срібну фігурку",
+	"Срібну монету",
+	"Золоту монету",
+	"Золоту каблучку",
+	"Королівський кубок",
+	"Шишку",
+	"Жолудь",
+	"Волоський горіх",
+	"Вічносвітну полум'янку",
+	"Полум'янку",
+	"Полум'янку",
+	"Полум'янку",
+	"Полум'янку",
+	"Полум'янку",
+	"Рибу",
+	"Рибну кістку",
+	"Баранячу ногу",
+	"Кістку",
+	"Яблуко",
+	"Недогризок яблука",
+	"Лохину",
+	"Гриб",
+	"Записку",
+	"Крем'ях",
+	"Пилу",
+	"Анкх",
+	"Перо",
+	"Яйце",
+	"Листок",
+	"Конюшину",
+	"Зірку, що впала",
+	"Кришталеву кулю",
+	"Сльозу",
+	"Дзеркало",
+	"Уламок криги",
+	"Флейту",
+	"Пісочний годинник",
+	"Залізний ключ",
+	"Жадовий ключ",
+	"Обсидіановий ключ",
+	"Червоне зілля",
+	"Червоне зілля",
+	"Синє зілля",
+	"Синє зілля",
+	"Жовте зілля",
+	"Жовте зілля",
+	"Зелене зілля",
+	"Помаранчеве зілля",
+	"Фіолетове зілля",
+	"Зілля веселок",
+	"Свіжу воду",
+	"Свіжу воду",
+	"Солену воду",
+	"Солену воду",
+	"Мінеральну воду",
+	"Мінеральну воду",
+	"Магічну воду",
+	"Магічну воду",
+	"Порожню пляшку",
+	"Порожню пляшку",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Сувій",
+	"Шматок пергаменту",
+	"Шматок пергаменту",
+	"Шматок пергаменту",
+	"Шматок пергаменту",
+	"Шматок пергаменту",
+	"Червоний магнекамінь",
+	"Помаранчевий магнекамінь",
+	"Жовтий магнекамінь",
+	"Зелений магнекамінь",
+	"Синьо-зелений магнекамінь",
+	"Синій магнекамінь",
+	"Фіолетовий магнекамінь",
+	"Важкий камінь",
+	"Королівську корону",
+	"Королівський скипетр",
+	"Золотий ключ",
+	"Невідомий предмет"
 };
 
 static const StringListProvider k1ItemNamesDOSEnglishProvider = { ARRAYSIZE(k1ItemNamesDOSEnglish), k1ItemNamesDOSEnglish };
 
 static const char *const k1TakenStringsDOSEnglish[2] = {
-	" taken.",
-	" taken."
+	" узяв.",
+	" узяв."
 };
 
 static const StringListProvider k1TakenStringsDOSEnglishProvider = { ARRAYSIZE(k1TakenStringsDOSEnglish), k1TakenStringsDOSEnglish };
 
 static const char *const k1PlacedStringsDOSEnglish[1] = {
-	" placed."
+	" помістив."
 };
 
 static const StringListProvider k1PlacedStringsDOSEnglishProvider = { ARRAYSIZE(k1PlacedStringsDOSEnglish), k1PlacedStringsDOSEnglish };
 
 static const char *const k1DroppedStringsDOSEnglish[1] = {
-	" dropped."
+	" упустив."
 };
 
 static const StringListProvider k1DroppedStringsDOSEnglishProvider = { ARRAYSIZE(k1DroppedStringsDOSEnglish), k1DroppedStringsDOSEnglish };
 
 static const char *const k1NoDropStringsDOSEnglish[2] = {
-	"You can't drop any more items in this scene.",
-	"You can't put that there."
+	"На цьому екрані більше не можна кидати предмети.",
+	"Не можна це тут класти."
 };
 
 static const StringListProvider k1NoDropStringsDOSEnglishProvider = { ARRAYSIZE(k1NoDropStringsDOSEnglish), k1NoDropStringsDOSEnglish };
 
 static const char *const k1PutDownStringDOSEnglish[1] = {
-	"Maybe I'd better put this down first."
+	"Напевне, краще спочатку це покласти."
 };
 
 static const StringListProvider k1PutDownStringDOSEnglishProvider = { ARRAYSIZE(k1PutDownStringDOSEnglish), k1PutDownStringDOSEnglish };
 
 static const char *const k1WaitAmuletStringDOSEnglish[1] = {
-	"I guess I'll have to wait for my Amulet to regain its power."
+	"Думаю, доведеться почекати, допоки мій Амулет не відновить свою силу."
 };
 
 static const StringListProvider k1WaitAmuletStringDOSEnglishProvider = { ARRAYSIZE(k1WaitAmuletStringDOSEnglish), k1WaitAmuletStringDOSEnglish };
 
 static const char *const k1BlackJewelStringDOSEnglish[1] = {
-	"It's a jewel, but why is it black?"
+	"Це коштовний камінь, та чому він чорний?"
 };
 
 static const StringListProvider k1BlackJewelStringDOSEnglishProvider = { ARRAYSIZE(k1BlackJewelStringDOSEnglish), k1BlackJewelStringDOSEnglish };
 
 static const char *const k1HealingTipStringDOSEnglish[1] = {
-	"Gee, this could come in handy if I get hurt."
+	"Нічого собі, може згодитися, якщо я поранюся."
 };
 
 static const StringListProvider k1HealingTipStringDOSEnglishProvider = { ARRAYSIZE(k1HealingTipStringDOSEnglish), k1HealingTipStringDOSEnglish };
 
 static const char *const k1PoisonGoneStringDOSEnglish[2] = {
-	"Amazing!",
-	"The effects of the poison are gone!"
+	"Неймовірно!",
+	"Наслідки отруєння зникли!"
 };
 
 static const StringListProvider k1PoisonGoneStringDOSEnglishProvider = { ARRAYSIZE(k1PoisonGoneStringDOSEnglish), k1PoisonGoneStringDOSEnglish };
 
 static const char *const k1ThePoisonStringsDOSEnglish[4] = {
-	"The poison...",
-	"I can't breathe...",
-	"I don't feel so good...",
-	"That snake must\rbe poisonous!"
+	"Отрута...",
+	"Дихати не можу...",
+	"Щось мені недобре...",
+	"Та змія, напевне, отруйна!"
 };
 
 static const StringListProvider k1ThePoisonStringsDOSEnglishProvider = { ARRAYSIZE(k1ThePoisonStringsDOSEnglish), k1ThePoisonStringsDOSEnglish };
 
 static const char *const k1FluteStringsDOSEnglish[2] = {
-	"Not very impressive sounding.",
-	"That last note sure was high!"
+	"Звучить якось непереконливо.",
+	"Остання нота була реально високою!"
 };
 
 static const StringListProvider k1FluteStringsDOSEnglishProvider = { ARRAYSIZE(k1FluteStringsDOSEnglish), k1FluteStringsDOSEnglish };
 
 static const char *const k1WispJewelStringsDOSEnglish[3] = {
-	"I'm not really feeling up to it right now.",
-	"I probably should put down my ",
-	", first."
+	"Щось мені не хочеться це робити.",
+	"Напевне, спочатку треба покласти ",
+	"."
 };
 
 static const StringListProvider k1WispJewelStringsDOSEnglishProvider = { ARRAYSIZE(k1WispJewelStringsDOSEnglish), k1WispJewelStringsDOSEnglish };
 
 static const char *const k1MagicJewelStringsDOSEnglish[1] = {
-	"That felt strange."
+	"Це було дивно."
 };
 
 static const StringListProvider k1MagicJewelStringsDOSEnglishProvider = { ARRAYSIZE(k1MagicJewelStringsDOSEnglish), k1MagicJewelStringsDOSEnglish };
 
 static const char *const k1FlaskFullStringDOSEnglish[1] = {
-	"This flask is already full."
+	"Ця пляшка вже наповнена."
 };
 
 static const StringListProvider k1FlaskFullStringDOSEnglishProvider = { ARRAYSIZE(k1FlaskFullStringDOSEnglish), k1FlaskFullStringDOSEnglish };
 
 static const char *const k1FullFlaskStringDOSEnglish[4] = {
-	"The flask is now filled\rwith fresh, sparkling water.",
-	"The flask is now filled\rwith salt water.",
-	"The flask is now filled\rwith mineral water.",
-	"Magic water."
+	"Пляшка тепер наповнена свіжою водою.",
+	"Пляшка тепер наповнена солоною водою.",
+	"Пляшка тепер наповнена мінеральною водою.",
+	"Магічна вода."
 };
 
 static const StringListProvider k1FullFlaskStringDOSEnglishProvider = { ARRAYSIZE(k1FullFlaskStringDOSEnglish), k1FullFlaskStringDOSEnglish };
 
 static const char *const k1OutroHomeStringDOSEnglish[1] = {
-	"Home"
+	"На головну"
 };
 
 static const StringListProvider k1OutroHomeStringDOSEnglishProvider = { ARRAYSIZE(k1OutroHomeStringDOSEnglish), k1OutroHomeStringDOSEnglish };
 
 static const char *const k1VeryCleverStringDOSEnglish[1] = {
-	"Very clever!  But your feeble efforts are futile."
+	"Дуже розумно!  Але твої кволі зусилля марні."
 };
 
 static const StringListProvider k1VeryCleverStringDOSEnglishProvider = { ARRAYSIZE(k1VeryCleverStringDOSEnglish), k1VeryCleverStringDOSEnglish };
 
 static const char *const k1GUIStringsDOSEnglish[28] = {
-	"The Legend of Kyrandia",
-	"Load a game",
-	"Save this game",
-	"Game controls",
-	"Quit playing",
-	"Resume game",
-	"Game Controls",
-	"Which game would you like to reload?",
-	"Select a position to save to:",
-	"[ EMPTY SLOT ]",
-	"Cancel",
-	"Enter a description of your saved game:",
-	"Save",
-	"Rest in peace, Brandon.",
-	"Are you sure you want to quit playing?",
+	"Легенда Кірандії",
+	"Завантажити гру",
+	"Зберегти цю гру",
+	"Управління",
+	"Вихід",
+	"Продовжити гру",
+	"Управління",
+	"Яку з ігор ви хотіли б завантажити?",
+	"Оберіть позицію для збереження:",
+	"[ ВІЛЬНЕ МІСЦЕ ]",
+	"Скасувати",
+	"Напишіть опис для збереження вашої гри:",
+	"Зберегти",
+	"Спочивай у мирі, Брендоне.",
+	"Ви впевнені, що хочете вийти?",
 	"XXX",
 	"XXX",
 	"XXXXXXX",
 	"XXXXXXXXX",
-	"Main menu",
-	"on",
-	"off",
-	"Yes",
-	"No",
-	"Walk speed ",
-	"Text speed ",
-	"Music is ",
-	"Sounds are "
+	"Головне меню",
+	"увімк.",
+	"вимк.",
+	"Так",
+	"Ні",
+	"Швидкісь ходи ",
+	"Швидкість тексту ",
+	"Музика ",
+	"Звуки "
 };
 
 static const StringListProvider k1GUIStringsDOSEnglishProvider = { ARRAYSIZE(k1GUIStringsDOSEnglish), k1GUIStringsDOSEnglish };
 
 static const char *const k1NewGameStringDOSEnglish[1] = {
-	"[ START A NEW GAME ]"
+	"[ РОЗПОЧАТИ НОВУ ГРУ ]"
 };
 
 static const StringListProvider k1NewGameStringDOSEnglishProvider = { ARRAYSIZE(k1NewGameStringDOSEnglish), k1NewGameStringDOSEnglish };
 
 static const char *const k1ConfigStringsDOSEnglish[9] = {
-	"slowest",
-	"slow",
-	"normal",
-	"fast",
-	"fastest",
-	"slowest",
-	"normal",
-	"fast",
-	"clickable"
+	"найповільніша",
+	"повільна",
+	"нормальна",
+	"швидка",
+	"найшвидша",
+	"найповільніша",
+	"нормальна",
+	"швидка",
+	"за кліком"
 };
 
 static const StringListProvider k1ConfigStringsDOSEnglishProvider = { ARRAYSIZE(k1ConfigStringsDOSEnglish), k1ConfigStringsDOSEnglish };
