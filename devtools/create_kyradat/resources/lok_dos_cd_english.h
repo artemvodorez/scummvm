@@ -127,8 +127,8 @@ static const char *const k1ItemNamesDOSCDEnglish[107] = {
 	"Зілля веселок",
 	"Свіжу воду",
 	"Свіжу воду",
-	"Солену воду",
-	"Солену воду",
+	"Солону воду",
+	"Солону воду",
 	"Мінеральну воду",
 	"Мінеральну воду",
 	"Магічну воду",
@@ -186,7 +186,7 @@ static const char *const k1DroppedStringsDOSCDEnglish[1] = {
 static const StringListProvider k1DroppedStringsDOSCDEnglishProvider = { ARRAYSIZE(k1DroppedStringsDOSCDEnglish), k1DroppedStringsDOSCDEnglish };
 
 static const char *const k1NoDropStringsDOSCDEnglish[2] = {
-	"На цьому екрані більше не можна кидати предмети.",
+	"Тут більше не можна кидати предмети.",
 	"Не можна це тут класти."
 };
 
